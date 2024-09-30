@@ -1,0 +1,9 @@
+# Biostats-F24-HW13
+Instructions:
+1. Fork this repository into your own github account
+2. Clone the FORKED repository (the one in your own github account, not this one) locally on your laptop
+3. Working with git in the command line on your laptop, open this file on your laptop and make a change as indicated to line 9 of this code
+4. Commit your changes and push them to your github repository
+5. Open a pull request to suggest that I incorporate your changes into my repository.
+
+DELETE THIS TEXT AND ADD YOUR FIRST AND LAST NAME
